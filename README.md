@@ -17,3 +17,6 @@ Cours - ITIL - Cycle de vie des services : https://redstoneformations.fr/Cours/D
 Récapitulatif - Stratégie des services : https://nimble-echinacea-d64.notion.site/Strat-gie-des-services-4309ccb4b70144848a3eb4687d9e3065?pvs=4
 
 Exercice - Stratégie des services : https://nimble-echinacea-d64.notion.site/Exercice-Strat-gie-ec1036c8fb734408ab8eca117b9395a6?pvs=4
+
+
+Samuel : https://nimble-echinacea-d64.notion.site/R-ponse-Samuel-interdit-de-regarder-pour-les-autres-daa10b4fd9da452d831ab2b7e9f99f3e?pvs=4
