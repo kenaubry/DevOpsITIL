@@ -2,7 +2,7 @@
 
 Horaires : 8h30-12h 13h-16h30
 
-Formulaire stagiaire (à remplir à la fin de chaque demi-journée) : https://forms.monday.com/forms/271d6ef37e392bdf551058bb3b99859d?r=use1
+Formulaire stagiaire (à remplir à la fin de chaque journée) : https://forms.monday.com/forms/271d6ef37e392bdf551058bb3b99859d?r=use1
 
 ---
 
