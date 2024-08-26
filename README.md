@@ -23,3 +23,13 @@ Correction - Stratégie des services : https://nimble-echinacea-d64.notion.site/
 Récapitulatif - Conception des services : https://nimble-echinacea-d64.notion.site/Conception-des-services-239b4caf1ad644d3bc56f321f9a07887?pvs=4
 
 Exercice - Conception des services : https://nimble-echinacea-d64.notion.site/Exercice-Conception-des-services-Plan-de-continuit-451b2efd45794ec4993947def61a45b4?pvs=4
+
+Correction - Conception des services : https://nimble-echinacea-d64.notion.site/Correction-Conception-des-services-Plan-de-continuit-42ee466b94f84acba53a145d6904b5ea?pvs=4
+
+Récapitulatif - Transition des services :
+
+Exercice - Transition des services :
+
+Récapitulatif - Exploitation des services :
+
+Exercice - Exploitation des services :
