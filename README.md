@@ -1,5 +1,13 @@
 # DevOps - ITIL
 
+Horaires : 8h30-12h 13h-16h30
+
+Formulaire stagiaire (à remplir à la fin de chaque demi-journée) : https://forms.monday.com/forms/271d6ef37e392bdf551058bb3b99859d?r=use1
+
+---
+
+### JOUR 1 - ITIL
+
 Cours - ITIL - Fondamentaux : https://redstoneformations.fr/Cours/Devops__3j____ITIL__2j_-6439211170/Cours/ITIL_-_Fondamentaux/#/
 
 QCM - ITIL - Fondamentaux : https://docs.google.com/forms/d/e/1FAIpQLSdy5Wjy_2PGlSnutcinQnbG44nuss77WHv7VkFmj5726VmxNA/viewform
