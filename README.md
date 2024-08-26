@@ -26,9 +26,9 @@ Exercice - Conception des services : https://nimble-echinacea-d64.notion.site/Ex
 
 Correction - Conception des services : https://nimble-echinacea-d64.notion.site/Correction-Conception-des-services-Plan-de-continuit-42ee466b94f84acba53a145d6904b5ea?pvs=4
 
-Récapitulatif - Transition des services :
+Récapitulatif - Transition des services : https://nimble-echinacea-d64.notion.site/Transition-des-services-2f05b20f7038484490c91bd842716dd3?pvs=4
 
-Exercice - Transition des services :
+Exercice - Transition des services : https://nimble-echinacea-d64.notion.site/Exercice-Transition-des-services-8c83be7f613f4f03b1b343bdcb2691ae?pvs=4
 
 Récapitulatif - Exploitation des services :
 
