@@ -4,6 +4,8 @@ Horaires : 8h30-12h 13h-16h30
 
 Formulaire stagiaire (à remplir à la fin de chaque journée) : https://forms.monday.com/forms/271d6ef37e392bdf551058bb3b99859d?r=use1
 
+Mail de contact : kenza.aubry@redstoneformations.fr
+
 ---
 
 ### JOUR 1 - ITIL
@@ -34,4 +36,4 @@ Correction - Transition des services : https://nimble-echinacea-d64.notion.site/
 
 Récapitulatif - Exploitation des services : https://nimble-echinacea-d64.notion.site/Exploitation-des-services-dda6e8c718bf4a599b6607132e9b09be?pvs=4
 
-Exercice - Exploitation des services :
+Exercice - Exploitation des services : https://nimble-echinacea-d64.notion.site/Exercices-Exploitation-des-services-5a9fc065ae14431aaa2b8db0275b4660?pvs=4
