@@ -30,6 +30,8 @@ Récapitulatif - Transition des services : https://nimble-echinacea-d64.notion.s
 
 Exercice - Transition des services : https://nimble-echinacea-d64.notion.site/Exercice-Transition-des-services-8c83be7f613f4f03b1b343bdcb2691ae?pvs=4
 
-Récapitulatif - Exploitation des services :
+Correction - Transition des services : 
+
+Récapitulatif - Exploitation des services : https://nimble-echinacea-d64.notion.site/Exploitation-des-services-dda6e8c718bf4a599b6607132e9b09be?pvs=4
 
 Exercice - Exploitation des services :
