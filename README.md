@@ -51,3 +51,5 @@ Correction - Amélioration continue : https://nimble-echinacea-d64.notion.site/C
 Cours - SVS : https://nimble-echinacea-d64.notion.site/Syst-me-de-Valeur-des-Services-95b8b5165f5b4106a52bf8ca3f8c7d6d?pvs=4
 
 QCM - SVS : https://docs.google.com/forms/d/e/1FAIpQLSezmynt-IW56qtE7Ee0A5Qeh4ZazxViy-ZDEMLBJACtXhzQfA/viewform
+
+Cours - Les 4 dimensions de la Gestion de Services : https://nimble-echinacea-d64.notion.site/Les-4-dimensions-de-la-Gestion-de-Services-8985019be7ca489783ff487bd9ce3c89?pvs=4
