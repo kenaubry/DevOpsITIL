@@ -55,3 +55,5 @@ QCM - SVS : https://docs.google.com/forms/d/e/1FAIpQLSezmynt-IW56qtE7Ee0A5Qeh4Za
 Cours - Les 4 dimensions de la Gestion de Services : https://nimble-echinacea-d64.notion.site/Les-4-dimensions-de-la-Gestion-de-Services-8985019be7ca489783ff487bd9ce3c89?pvs=4
 
 Exercice - Les 4 dimensions de la Gestion de Services : https://nimble-echinacea-d64.notion.site/Exercice-4-dimensions-a9a03eaa04134bd484b7e7fcefbfd368?pvs=4
+
+Correction - Les 4 dimensions de la Gestion de Services : https://nimble-echinacea-d64.notion.site/Correction-4-dimensions-22bc0d1cf33448509b9df27745430610?pvs=4
