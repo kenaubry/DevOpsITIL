@@ -37,3 +37,5 @@ Correction - Transition des services : https://nimble-echinacea-d64.notion.site/
 Récapitulatif - Exploitation des services : https://nimble-echinacea-d64.notion.site/Exploitation-des-services-dda6e8c718bf4a599b6607132e9b09be?pvs=4
 
 Exercice - Exploitation des services : https://nimble-echinacea-d64.notion.site/Exercices-Exploitation-des-services-5a9fc065ae14431aaa2b8db0275b4660?pvs=4
+
+Correction - Exploitation des services : https://nimble-echinacea-d64.notion.site/Correction-Exploitation-des-services-6c9106b4d13242429ec5f51b0216e179?pvs=4
