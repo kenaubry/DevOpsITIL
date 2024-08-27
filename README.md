@@ -43,3 +43,7 @@ Correction - Exploitation des services : https://nimble-echinacea-d64.notion.sit
 Récapitulatif - Amélioration continue : https://nimble-echinacea-d64.notion.site/Am-lioration-continue-7eb136494b4a4a6596a0749f079e7cb2?pvs=4
 
 Exercice - Amélioration continue : https://nimble-echinacea-d64.notion.site/Exercice-Am-lioration-continue-3d6b2b8a945c4c35894ba43119b7bb05?pvs=4
+
+## JOUR 2
+
+Cours - SVS : https://nimble-echinacea-d64.notion.site/Syst-me-de-Valeur-des-Services-95b8b5165f5b4106a52bf8ca3f8c7d6d?pvs=4
