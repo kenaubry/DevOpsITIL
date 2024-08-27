@@ -39,3 +39,7 @@ Récapitulatif - Exploitation des services : https://nimble-echinacea-d64.notion
 Exercice - Exploitation des services : https://nimble-echinacea-d64.notion.site/Exercices-Exploitation-des-services-5a9fc065ae14431aaa2b8db0275b4660?pvs=4
 
 Correction - Exploitation des services : https://nimble-echinacea-d64.notion.site/Correction-Exploitation-des-services-6c9106b4d13242429ec5f51b0216e179?pvs=4
+
+Récapitulatif - Amélioration continue : https://nimble-echinacea-d64.notion.site/Am-lioration-continue-7eb136494b4a4a6596a0749f079e7cb2?pvs=4
+
+Exercice - Amélioration continue : https://nimble-echinacea-d64.notion.site/Exercice-Am-lioration-continue-3d6b2b8a945c4c35894ba43119b7bb05?pvs=4
