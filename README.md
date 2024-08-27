@@ -57,3 +57,5 @@ Cours - Les 4 dimensions de la Gestion de Services : https://nimble-echinacea-d6
 Exercice - Les 4 dimensions de la Gestion de Services : https://nimble-echinacea-d64.notion.site/Exercice-4-dimensions-a9a03eaa04134bd484b7e7fcefbfd368?pvs=4
 
 Correction - Les 4 dimensions de la Gestion de Services : https://nimble-echinacea-d64.notion.site/Correction-4-dimensions-22bc0d1cf33448509b9df27745430610?pvs=4
+
+TP - ITIL : https://nimble-echinacea-d64.notion.site/TP-ITIL-c336fe0e05394ad9bd7c0cf8169eca3d?pvs=4
