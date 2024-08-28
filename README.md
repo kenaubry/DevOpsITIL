@@ -65,3 +65,5 @@ TP - ITIL : https://nimble-echinacea-d64.notion.site/TP-ITIL-c336fe0e05394ad9bd7
 Cours - Introduction au DevOps : https://nimble-echinacea-d64.notion.site/Introduction-DevOps-ca476cb725b0402ab32dd0c03135b633?pvs=4
 
 QCM - Introduction au DevOps : https://forms.gle/aJVooJtpUMUHRYTT6
+
+Cours - DevOps et Agile : https://nimble-echinacea-d64.notion.site/DevOps-et-Agile-cee81c1357b547e0b4fb9d5be3eae15d?pvs=4
