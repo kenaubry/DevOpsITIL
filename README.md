@@ -63,3 +63,5 @@ TP - ITIL : https://nimble-echinacea-d64.notion.site/TP-ITIL-c336fe0e05394ad9bd7
 ## JOUR 3
 
 Cours - Introduction au DevOps : https://nimble-echinacea-d64.notion.site/Introduction-DevOps-ca476cb725b0402ab32dd0c03135b633?pvs=4
+
+QCM - Introduction au DevOps : https://forms.gle/aJVooJtpUMUHRYTT6
