@@ -73,3 +73,5 @@ Exercice - User Stories : https://nimble-echinacea-d64.notion.site/Exercice-US-d
 Correction - User Stories : https://nimble-echinacea-d64.notion.site/Correction-US-2fe1aa2c7bc94efba6d7a2524c3392e0?pvs=4
 
 Cours - Méthodologie Scrum : https://nimble-echinacea-d64.notion.site/M-thodologie-Scrum-25ce3ebeec954b8b85d91e1688da6197?pvs=4
+
+Exercice - Product Backlog : https://nimble-echinacea-d64.notion.site/Exercice-Product-Backlog-61d8ae66287d4e28b1dea841868c2beb?pvs=4
