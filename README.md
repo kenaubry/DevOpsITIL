@@ -71,3 +71,5 @@ Cours - DevOps et Agile : https://nimble-echinacea-d64.notion.site/DevOps-et-Agi
 Exercice - User Stories : https://nimble-echinacea-d64.notion.site/Exercice-US-dd53a6f74e3244ce817d0364e40b5b80?pvs=4
 
 Correction - User Stories : https://nimble-echinacea-d64.notion.site/Correction-US-2fe1aa2c7bc94efba6d7a2524c3392e0?pvs=4
+
+Cours - Méthodologie Scrum : https://nimble-echinacea-d64.notion.site/M-thodologie-Scrum-25ce3ebeec954b8b85d91e1688da6197?pvs=4
