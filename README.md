@@ -8,7 +8,7 @@ Mail de contact : kenza.aubry@redstoneformations.fr
 
 ---
 
-### JOUR 1 - ITIL
+### JOUR 1
 
 Cours - ITIL - Fondamentaux : https://redstoneformations.fr/Cours/Devops__3j____ITIL__2j_-6439211170/Cours/ITIL_-_Fondamentaux/#/
 
@@ -59,3 +59,7 @@ Exercice - Les 4 dimensions de la Gestion de Services : https://nimble-echinacea
 Correction - Les 4 dimensions de la Gestion de Services : https://nimble-echinacea-d64.notion.site/Correction-4-dimensions-22bc0d1cf33448509b9df27745430610?pvs=4
 
 TP - ITIL : https://nimble-echinacea-d64.notion.site/TP-ITIL-c336fe0e05394ad9bd7c0cf8169eca3d?pvs=4
+
+## JOUR 3
+
+Cours - Introduction au DevOps : https://nimble-echinacea-d64.notion.site/Introduction-DevOps-ca476cb725b0402ab32dd0c03135b633?pvs=4
