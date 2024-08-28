@@ -67,3 +67,5 @@ Cours - Introduction au DevOps : https://nimble-echinacea-d64.notion.site/Introd
 QCM - Introduction au DevOps : https://forms.gle/aJVooJtpUMUHRYTT6
 
 Cours - DevOps et Agile : https://nimble-echinacea-d64.notion.site/DevOps-et-Agile-cee81c1357b547e0b4fb9d5be3eae15d?pvs=4
+
+Exercice - User Stories : https://nimble-echinacea-d64.notion.site/Exercice-US-dd53a6f74e3244ce817d0364e40b5b80?pvs=4
