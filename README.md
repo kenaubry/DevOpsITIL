@@ -91,3 +91,5 @@ Exercice - Cas d'étude Agile : https://nimble-echinacea-d64.notion.site/Exercic
 Correction - Cas d'étude Agile : https://nimble-echinacea-d64.notion.site/Correction-Cas-d-tude-Agile-4cee813ad37a41e692ed934785b1c7cf?pvs=4
 
 Cours - Matrice RACI : https://nimble-echinacea-d64.notion.site/Matrice-RACI-0cdb2842053840e48b2debf7a7db71c4?pvs=4
+
+Exercice - Matrice RACI : https://nimble-echinacea-d64.notion.site/Exercice-RACI-eece8353d648431686ab992216597e3f?pvs=4
