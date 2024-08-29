@@ -81,3 +81,7 @@ Exercice - Product Backlog : https://nimble-echinacea-d64.notion.site/Exercice-P
 Correction - Product Backlog : https://nimble-echinacea-d64.notion.site/Correction-Product-Backlog-c845983d5f5b4c9388c658416871b426?pvs=4
 
 Exercice - Sprint Backlog : https://nimble-echinacea-d64.notion.site/Exercice-Sprint-Backlog-ac71452d3670414eb33b5bf85940041c?pvs=4
+
+Correction - Sprint Backlog : https://nimble-echinacea-d64.notion.site/Correction-Sprint-Backlog-8b487b5fff0b466dad0b8e3abcf5e54d?pvs=4
+
+Cours - Agile dans les grandes entreprises : https://nimble-echinacea-d64.notion.site/Agile-dans-les-grandes-entreprises-Epics-Features-US-c7497a5a823948efa1d1754bad4e5a56?pvs=4
