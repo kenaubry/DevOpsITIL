@@ -79,3 +79,5 @@ Exercice - Product Backlog : https://nimble-echinacea-d64.notion.site/Exercice-P
 ## JOUR 4
 
 Correction - Product Backlog : https://nimble-echinacea-d64.notion.site/Correction-Product-Backlog-c845983d5f5b4c9388c658416871b426?pvs=4
+
+Exercice - Sprint Backlog : https://nimble-echinacea-d64.notion.site/Exercice-Sprint-Backlog-ac71452d3670414eb33b5bf85940041c?pvs=4
