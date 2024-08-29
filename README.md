@@ -87,3 +87,5 @@ Correction - Sprint Backlog : https://nimble-echinacea-d64.notion.site/Correctio
 Cours - Agile dans les grandes entreprises : https://nimble-echinacea-d64.notion.site/Agile-dans-les-grandes-entreprises-Epics-Features-US-c7497a5a823948efa1d1754bad4e5a56?pvs=4
 
 Exercice - Cas d'étude Agile : https://nimble-echinacea-d64.notion.site/Exercice-Cas-d-tude-Agile-e99a354fff3e4618bd5e82c4619604cb?pvs=4
+
+Cours - Matrice RACI : https://nimble-echinacea-d64.notion.site/Matrice-RACI-0cdb2842053840e48b2debf7a7db71c4?pvs=4
