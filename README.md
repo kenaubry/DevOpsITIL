@@ -88,4 +88,6 @@ Cours - Agile dans les grandes entreprises : https://nimble-echinacea-d64.notion
 
 Exercice - Cas d'étude Agile : https://nimble-echinacea-d64.notion.site/Exercice-Cas-d-tude-Agile-e99a354fff3e4618bd5e82c4619604cb?pvs=4
 
+Correction - Cas d'étude Agile : https://nimble-echinacea-d64.notion.site/Correction-Cas-d-tude-Agile-4cee813ad37a41e692ed934785b1c7cf?pvs=4
+
 Cours - Matrice RACI : https://nimble-echinacea-d64.notion.site/Matrice-RACI-0cdb2842053840e48b2debf7a7db71c4?pvs=4
