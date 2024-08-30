@@ -98,3 +98,4 @@ Correction - Matrice RACI : https://nimble-echinacea-d64.notion.site/Correction-
 
 ## JOUR 4
 
+TP Final : https://nimble-echinacea-d64.notion.site/TP-DevOps-ITIL-41be6c94bdc1417ca01ecf6f2b3d28c2?pvs=4
